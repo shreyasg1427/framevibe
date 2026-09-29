@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+coverage/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+
+# Generated output; keep the directory tracked with its placeholder.
+output/*
+!output/.gitkeep
+
